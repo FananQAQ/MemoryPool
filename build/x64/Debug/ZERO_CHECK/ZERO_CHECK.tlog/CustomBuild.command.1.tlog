@@ -1,0 +1,10 @@
+^D:\C AND C++\MEMORYPOOL\BUILD\CMAKEFILES\21176E7900EF818CCEAB0785863603CC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/C and C++/MemoryPool" "-BD:/C and C++/MemoryPool/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/C and C++/MemoryPool/build/MemoryPoolLab.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

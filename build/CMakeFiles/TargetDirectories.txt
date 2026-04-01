@@ -1,0 +1,4 @@
+D:/C and C++/MemoryPool/build/CMakeFiles/memory_pool_lab.dir
+D:/C and C++/MemoryPool/build/CMakeFiles/memory_pool_demo.dir
+D:/C and C++/MemoryPool/build/CMakeFiles/ALL_BUILD.dir
+D:/C and C++/MemoryPool/build/CMakeFiles/ZERO_CHECK.dir
