@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Memory Pool Lab
 
 这是一个面向自学的 C++ 内存池实验项目。
@@ -49,4 +48,3 @@ cmake --build build
 - 增加性能对比测试
 =======
 # MemoryPool
->>>>>>> 3868524e340e7877b2b874fe2f82546720426572
